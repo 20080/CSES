@@ -3,10 +3,8 @@
 #define ll long long
 using namespace std;
 
-
-
 int main() {
-long long n;
+ll n;
 cin>>n;
 while(n!=1){
     cout<<n<<" ";
